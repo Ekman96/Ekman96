@@ -1,14 +1,11 @@
 # Hi, I'm Ekmanpreet Singh 👋
 
-QA Automation Engineer | Python | Selenium | API Testing  
+<marquee behavior="scroll" direction="left" scrollamount="5">
+QA Automation Engineer | Python | Selenium | API Testing | EMR & EPIC Validation | Passionate about Automation
+</marquee>
 
 ---
 
-## 🧑‍💻 About Me
-QA Engineer in the healthcare industry with experience in **automation, EMR & EPIC system validation, and quality compliance**.  
-Passionate about building **reliable automation frameworks** and improving software quality.
-
----
 ## 💡 Skills
 - **Languages:** Python, SQL, HTML  
 - **Automation Tools:** Selenium, PyTest, Robot Framework  
