@@ -1,7 +1,7 @@
 # Hi, I'm Ekmanpreet Singh 👋
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
-QA Automation Engineer | Python | Selenium | API Testing | EMR & EPIC Validation | Passionate about Automation
+QA Automation Engineer | Product Manager |Python | Selenium | API Testing | EMR & EPIC Validation | Passionate about Automation
 </marquee>
 
 ---
