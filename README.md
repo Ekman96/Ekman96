@@ -1,6 +1,6 @@
-# Hi, I'm Ekman Singh 👋
+# Hi, I'm Ekmanpreet Singh 👋
 
-QA Automation Engineer | Python | Selenium | API Testing | Automation Enthusiast
+QA Automation Engineer | Product Manager|Python | Selenium | API Testing | Automation Enthusiast
 
 ---
 
